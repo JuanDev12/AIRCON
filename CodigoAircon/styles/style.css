@@ -100,11 +100,11 @@ body{
 }
 
 h4 {
-    font-size: 2vw;
+    font-size: 200%;
 }
 
 p {
-    font-size: 1vw;
+    font-size: 100%;
 }
 
 .main-form{
@@ -425,6 +425,18 @@ p {
         margin-top: 1rem;
     }
 }
+
+/* @media (max-width: 530px) {
+    .form-content {
+        width: 50vh;
+        height: 50vh;
+    }
+
+    .popup-left, .popup-right {
+        width: 50vh;
+        height: 50vh;
+    }
+} */
 
 @media (max-width:840px){
     .navbar{
