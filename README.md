@@ -1,2 +1,2 @@
-# AIRCON
-Aircon projecto to web programming course
+# Aircon-Web
+Repository that holds the Aircon WebPage!
